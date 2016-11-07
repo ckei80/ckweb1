@@ -1,0 +1,11 @@
+#wrapper{
+	width:100%;
+	min-height: 800px;
+	background-image: url("/content/images/bg-image01.png");
+}
+
+#top-banner{
+	width: 100px;
+	height: 50px;
+	background-color: #343434;
+}
